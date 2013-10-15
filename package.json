@@ -31,7 +31,7 @@
   ],
   "preferGlobal": true,
   "bin": {
-    "mdm": "lib/meteor-deployment-manager.js"
+    "mdmc": "lib/meteor-deployment-manager.js"
   },
   "dependencies": {
     "fs-extra": "",
